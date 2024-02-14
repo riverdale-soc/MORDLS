@@ -6,3 +6,6 @@
 	path = DCC/DCC-Handler
 	url = https://github.com/riverdale-soc/DCC-Handler.git
 	branch = master
+[submodule "DCC/nanorecieve"]
+	path = DCC/nanorecieve
+	url = https://github.com/riverdale-soc/nanorecieve.git
