@@ -9,3 +9,9 @@
 [submodule "DCC/nanorecieve"]
 	path = DCC/nanorecieve
 	url = https://github.com/riverdale-soc/nanorecieve.git
+[submodule "sims/Drone-Kit-Sims"]
+	path = sims/Drone-Kit-Sims
+	url = https://github.com/riverdale-soc/Drone-Kit-Sims.git
+[submodule "DCC/uav-mobfinder"]
+	path = DCC/uav-mobfinder
+	url = https://github.com/riverdale-soc/uav-mobfinder.git
