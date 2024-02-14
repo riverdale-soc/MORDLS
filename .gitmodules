@@ -1,0 +1,4 @@
+[submodule "submersion-module"]
+	path = submersion-module
+	url = https://github.com/riverdale-soc/submersion-module.git
+	branch = main
