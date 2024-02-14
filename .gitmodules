@@ -2,3 +2,7 @@
 	path = submersion-module
 	url = https://github.com/riverdale-soc/submersion-module.git
 	branch = main
+[submodule "DCC/DCC-Handler"]
+	path = DCC/DCC-Handler
+	url = https://github.com/riverdale-soc/DCC-Handler.git
+	branch = master
